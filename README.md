@@ -30,5 +30,8 @@ telegram.send("Test message", chat_id) # chat_id - ид чата
 ```crystal
 telegram.send("Test message", chat_id, add_fields: {
   "disable_notification" => "1"
-  })
+})
 ```
+
+# Благодарность
+Библиотека написана на основе ```De-Os/vk-crystal```
