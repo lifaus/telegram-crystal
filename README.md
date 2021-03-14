@@ -1,4 +1,5 @@
-# Telegram-Crystal 
+![alt text](http://serjdev.ru.com/crystal.png)
+
  Библиотека для взаимодействия с telegram.org из под Crystal
 
 ## Установка
