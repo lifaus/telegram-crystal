@@ -7,7 +7,7 @@
 ```crystal
 dependencies:
   telegram:
-    github: serjdev/telegram-crystal  
+    github: lifaus/telegram-crystal  
 ```
 
 ## Использование
