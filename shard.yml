@@ -2,7 +2,7 @@ name: telegram
 version: 0.1
 
 authors:
-  - serjdev ~> t.me/serjfrog
+  - lifaus ~> t.me/lifaus
 
 description: |
   Library for telegram.org api on Crystal lang
